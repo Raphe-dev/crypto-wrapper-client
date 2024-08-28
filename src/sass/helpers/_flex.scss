@@ -1,0 +1,8 @@
+.flex {
+  display:flex;
+  vertical-align: middle;
+
+  &.-around {
+    justify-content: space-around;
+  }
+}
